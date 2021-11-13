@@ -1,4 +1,4 @@
-# Salve quebrada! Me apresento como Gabriel, vulgo oG.**
+# Salve quebrada! Me apresento como Gabriel, vulgo oG.
 
 - 🔭 Atualmente hoje me esforçando para ser **full-stack**
 - 🌱 Estudando **Java** (mas sipa q vou desistirKKK :C)
