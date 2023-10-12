@@ -1,10 +1,10 @@
 # Salve quebrada! Me apresento como Gabriel, vulgo oG.
 
-- 🔭 Atualmente hoje me esforçando para ser **full-stack**
-- 🌱 Estudando **Java** (mas sipa q vou desistirKKK :C)
-- 💬 Não me pergunte nada, ñ saberei a **resposta**
-- 📫 Contato via Orkut (**Gabriel Zika**)
-- ⚡ Sou Atual **Campeão** Brasileiro de Barismo 
+- 🔭 Atualmente hoje atuo como designer **UX/UI** mas especilizando por UX
+- 🌱 Sempre em constante aprendizado
+- 💬 1% melhor que ontem, SEMPRE!
+- 📫 Contato via email (**gabrielc.android@gmail.com**)
+- ⚡ Construindo um projeto incrivel para mudar a vida das pessoas
 
 ##
 
